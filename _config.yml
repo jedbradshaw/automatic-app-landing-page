@@ -13,7 +13,7 @@ presskit_download_link                    : https://emilbaehr.com               
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The Moozpa! app connects you to a Zoom meeting during a live in-person meeting without echoing and then view when other participants raise their hands and have their audio unmuted. <br><br> Moozpa! simplifies the Zoom interface and shows only those with hands raised or unmuted. 
+app_description                           : The Moozpa! app lets you connect to a Zoom meeting and view when other participants raise their hands and have their audio unmuted. 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : View participants on Zoom during an in-person meeting
     description                           : The Moozpa! app lets you connect to a Zoom meeting and view when other participants raise their hands and have their audio unmuted.
-    fontawesome_icon_name                 : hand-heart
+    fontawesome_icon_name                 : hand-paper
     
   - title                                 : Connect easily to a Zoom meeting
     description                           : Ability to save and manage recurring or upcoming Zoom meeting details
