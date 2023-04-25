@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : View participants on Zoom during an in-person meeting
     description                           : The Moozpa! app lets you connect to a Zoom meeting and view when other participants raise their hands and have their audio unmuted.
-    fontawesome_icon_name                 : timer
+    fontawesome_icon_name                 : hand
     
   - title                                 : Connect easily to a Zoom meeting
     description                           : Ability to save and manage recurring or upcoming Zoom meeting details
@@ -54,6 +54,10 @@ features                                  :
   - title                                 : Native Mac support
     description                           : The ability to run on a Mac with an M series chip
     fontawesome_icon_name                 : computer-classic
+    
+  - title                                 : Stopwatch
+    description                           : Integrated count-up timer for the presenter to keep track of time
+    fontawesome_icon_name                 : timer-solid
  
 
 
