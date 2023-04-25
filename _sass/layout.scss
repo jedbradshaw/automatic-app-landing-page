@@ -215,10 +215,15 @@ nav > ul li a:visited {
 	color: rgba($header-title-color, 1);
 }
 
-nav > ul li a:hover,
+
 nav > ul li a:active {
 	text-decoration: none;
 	color: rgba($header-title-color, 1);
+}
+
+nav > ul li a:hover {
+	text-decoration: none;
+	color: rgba($header-title-color, .7);
 }
 
 
