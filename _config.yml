@@ -53,11 +53,11 @@ features                                  :
 
   - title                                 : Native Mac support
     description                           : The ability to run on a Mac with an M series chip
-    fontawesome_icon_name                 : desktop-alt
+    fontawesome_icon_name                 : desktop
     
   - title                                 : Stopwatch
     description                           : Integrated count-up timer for the presenter to keep track of time
-    fontawesome_icon_name                 : clock-four
+    fontawesome_icon_name                 : clock
  
 
 
