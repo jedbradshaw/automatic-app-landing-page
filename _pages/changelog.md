@@ -4,13 +4,9 @@ title: What's New
 include_in_header: true
 ---
 
-# Version History
-
-<br>
-
 ## `Latest Version`
 
-## **Version 1.3.4**
+### **Version 1.3.4**
 Updates to the Zoom Client
 
 <br>
@@ -18,18 +14,15 @@ Updates to the Zoom Client
 ### **Version 1.3.3**
 Updates for Zoom Client
 
-
 <br>
 
 ### **Version 1.3.2**
 Zoom Updates
 
-
 <br>
 
 ### **Version 1.3.1**
 Updates to Zoom client
-
 
 <br>
 
@@ -38,23 +31,22 @@ Updates to Zoom client
 * Added a new look to the summary page, grouping names and sorting the participants
 * Updated Zoom Client Version
 
-
 <br>
 
 ### **Version 1.2.1**
 Fixed an issue that could prevent showing a participant's hand has been lowered
+
+<br>
 
 ### **Version 1.2.0**
 * Added New Save Feature for Easier Saving of Meeting While Joining
 * Added New Summary Page for a meeting session
 * Zoom updates
 
-
 <br>
 
 ### **Version 1.1.1**
 * Fixed issue where Zoom would prevent connection to meetings created with Zoom version 5.10.3 or greater
-
 
 <br>
 
@@ -62,7 +54,8 @@ Fixed an issue that could prevent showing a participant's hand has been lowered
 * Added ability to set a preferred user name to use when connecting to meetings
 * Other UI refinements
 
-
 <br>
 
 ### **Version 1.0.1**
+
+<br>
