@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : View participants on Zoom during an in-person meeting
     description                           : The Moozpa! app lets you connect to a Zoom meeting and view when other participants raise their hands and have their audio unmuted.
-    fontawesome_icon_name                 : bookmark
+    fontawesome_icon_name                 : hand
     
   - title                                 : Connect easily to a Zoom meeting
     description                           : Ability to save and manage recurring or upcoming Zoom meeting details
