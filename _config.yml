@@ -37,23 +37,23 @@ features                                  :
 
   - title                                 : View participants on Zoom during an in-person meeting
     description                           : The Moozpa! app lets you connect to a Zoom meeting and view when other participants raise their hands and have their audio unmuted.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : timer
     
   - title                                 : Connect easily to a Zoom meeting
     description                           : Ability to save and manage recurring or upcoming Zoom meeting details
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : bookmark
 
   - title                                 : Never manually enter your Zoom user name again
     description                           : Ability to use and manage a preferred user name when connecting to a Zoom meeting
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : input-text
 
   - title                                 : Split screen support
     description                           : On iPad, the ability to use in a split-screen environment
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : table-columns
 
   - title                                 : Native Mac support
     description                           : The ability to run on a Mac with an M series chip
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : computer-classic
  
 
 
