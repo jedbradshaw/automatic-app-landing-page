@@ -6,6 +6,20 @@ include_in_header: true
 
 ## `Latest Version`
 
+### **Version 2.0.0**
+In version 2.0, we have rewritten the app from the ground up. Now you should see better performance and a fix to numerous minor bugs.
+
+This version also features an entirely redesigned interface focused on clarity and usability.
+
+We put much effort into this new release and are proud of it. We hope you love it too.
+
+<br>
+
+### **Version 1.3.5**
+Updated the Zoom Client.
+
+<br>
+
 ### **Version 1.3.4**
 Updates to the Zoom Client
 
